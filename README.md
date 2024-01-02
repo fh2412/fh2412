@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fh2412
 - 👀 I’m interested in AI be it creating my own models or levaraging the newest technologies
 - 🌱 I’m currently learning the pyThourch python framework and Fast.ai
+- 💻 I'm currently working on an Angular project creating a web app
 - 📫 How to reach me email: florianhofer024@gmail.com
 
 <!---
